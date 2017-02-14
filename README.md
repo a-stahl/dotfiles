@@ -1,2 +1,2 @@
 # dotfiles
-tmux, vim, etc..
+tmux, vim, and others as they appear 
